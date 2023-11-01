@@ -76,7 +76,7 @@ In your browser navigate to ``http://<your validators ip address>:3000``. The de
 
 ![image](https://github.com/Alping0/AvailMonitoring/assets/105454859/8818e40b-6132-4424-8150-84dd444d268b)
 
-ou will be asked to reset your password, please write it down or remember the password as you will need it for the next login.
+You will be asked to reset your password, please write it down or remember the password as you will need it for the next login.
 
 You will need to create a datasource. Navigate to **Home->Connections->Data sources**
 
@@ -100,7 +100,7 @@ Navigate back to your home page, on the top right in the menu select **Import da
 
 Import the Avail Node Metrics file:
 https://github.com/availproject/availproject.github.io/blob/6ff2c1862ede87225a1b6ee296ea5762f56f4042/static/grafana/Avail-Node-Metrics.json
-Download that file to your computer.
+**Download that file to your computer.**
 
 ![image](https://github.com/Alping0/AvailMonitoring/assets/105454859/36c1fc59-38f7-4d89-8808-4a7c6aa8317d)
 
